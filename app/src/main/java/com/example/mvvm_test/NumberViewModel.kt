@@ -6,7 +6,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
 enum class ActionType{
-    PLUS,MINUS
+    PLUS,MINUS 
 }
 
 class NumberViewModel : ViewModel() {
